@@ -12,6 +12,5 @@ If you want to attempt to train the model on your own there is a commented out p
 
 <h2>We thank you for your viewing!
   
-Best,
-  
+Best,  
 Aidan and Matt</h2>
