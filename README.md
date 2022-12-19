@@ -10,6 +10,6 @@ And that's it everything will flow from there!
 
 Notes for those who want to attempt to train our model:
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you want to attempt to train the model on your own there is a commented out portion at the bottom of our training code in Section 4a, by uncommenting this you will be able to run the training for 30 epochs on 1/6th of our dataset.
+<p>If you want to attempt to train the model on your own there is a commented out portion at the bottom of our training code in Section 4a, by uncommenting this you will be able to run the training for 30 epochs on 1/6th of our dataset.</p>
 
 We thank you for your viewing!
