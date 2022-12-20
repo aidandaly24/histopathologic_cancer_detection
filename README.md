@@ -1,6 +1,8 @@
 # Histopathologic Cancer Detection
 
-If you simply download our file "histopathologic_cancer_detection.ipynb" you will be able to run our entire source code in Google Colab. Everything is there and set up to be visually appealing as well as providing a guide throughout our project. We have commands within our Google Colab that will allow you to download our trained model directly from there, so it is not necessary to download the one you see in this repository.
+If you only want to view our source code and some sample outputs you can view it directly here from GitHub in our "histopathologic_cancer_detection.ipynb" file. 
+
+If you wish to run through our code on your own, which we encourage you to do you can simply download our file "histopathologic_cancer_detection.ipynb". Here you will be able to run our entire source code in Google Colab. Everything is there and set up to be visually appealing as well as providing a guide throughout our project. We have commands within our Google Colab that will allow you to download our trained model directly from there, so it is not necessary to download the one you see in this repository.
 
 Steps to running our project:
 1. In Google Colab make sure to click Runtime -> Change runtime type -> Hardware accelerator -> GPU
